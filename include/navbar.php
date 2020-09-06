@@ -1,6 +1,6 @@
 <?php
 echo '
-<nav class="uk-navbar-container" uk-navbar>
+<nav class="uk-navbar-container">
     <div class="uk-navbar-left">
         <ul class="uk-navbar-nav">
             <li> <a href="../index.php">Home</a></li>

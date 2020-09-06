@@ -41,12 +41,7 @@ echo '
                     <th>Example</th>   
                     <th>Result</th>         
                 </tr>         
-            </thead>
-            <tfoot>
-                <tr>
-                    <td>Table footer</td>
-                </tr>
-            </tfoot>
+            </thead>            
             <tbody>
                 <tr>
                     <td>+</td>
@@ -108,7 +103,7 @@ echo '
                     <td>true || false</td>           
                     <td>'.  $or  .'</td> 
                 </tr>
-            </tbody>
+            </tbody>			
         </table>        
     </div>
 </div>
